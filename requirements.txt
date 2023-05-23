@@ -4,5 +4,5 @@ gunicorn>=19.9.0
 numpy==1.16.4
 pandas==1.0.3
 numpy==1.16.4
-requests==2.24.0
+requests==2.31.0
 scikit-learn==0.23.1
